@@ -1,0 +1,80 @@
+\documentclass{article}
+\usepackage[letterpaper, margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{xcolor}
+\usepackage{url}
+\pagestyle{empty}
+
+% Define off-white color
+\definecolor{offwhite}{RGB}{255, 255, 238}
+
+% Set background color
+\pagecolor{offwhite}
+
+% Set link colors
+\hypersetup{
+    linkcolor=black,
+    urlcolor=black,
+    pdfborder={0 0 0}
+}
+
+% Set URL style to italic
+\urlstyle{it}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+
+\begin{center}
+    \huge \textbf{Kamel S. Fares} \\
+    \large \textit{\href{mailto:Kamelfares122@gmail.com}{Kamelfares122@gmail.com} $\vert$ \href{https://linkedin.com/in/kamel-senfro/}{linkedin.com/in/kamel-senfro} $\vert$ \href{https://github.com/KamelSenfro}{github.com/KamelSenfro}}
+\end{center}
+
+\section{Experience}
+\begin{itemize}
+    \item \textbf{Machine Learning Engineer}, Omdena \\
+    Worked with Data Collection, EDA, Model Development and Deployment.
+    
+    \item \textbf{Front-end Developer}, Leap Lab \\
+    Developed responsive and user-friendly web applications using HTML5, CSS3, and JavaScript (React JS). Worked with Headless CMS, third-party APIs.
+    
+    \item \textbf{Data Science Intern}, The Sparks Foundation \\
+    Worked with Unsupervised / Supervised ML, NA, TA, EDA.
+    
+    \item \textbf{Mathematics \& ML YouTuber (German), \href{https://www.youtube.com/channel/UCs0Ob8-kw_n2ZmW8uMvmzGw} {Matematik ß}} \\
+    Explained and visualized complex math and ML concepts (LINALG, CA, Calc3, NN) using Manim, LaTeX and Shaders.
+    
+    \item \textbf{Advertising Graphic Designer}, CameraTKshop \\
+    Created visual designs and multimedia content for advertising campaigns across various platforms.
+\end{itemize}
+
+\section{Volunteering}
+\begin{itemize}
+    \item Event Organizer, Booth of Ok.inc and Canon at IDEX, Intercontinental hotel.
+    \item Translation Contributor, Coursera Community (English, German, Arabic Translation).
+    \item Event Organizer, WHD 2018 by the Magdy Yacoub Foundation.
+\end{itemize}
+
+\section{Projects}
+\begin{itemize}
+    \item House Price Prediction(EG)
+    \item Breast Cancer Prediction Model
+    \item Fraud Detection ML Model
+    \item \href{https://github.com/KamelSenfro}{40+ other projects on my \textbf{GitHub} }
+\end{itemize}
+
+\section{Education}
+\begin{itemize}
+    \item Computer Science Student, Cairo University GPA 3,5 (1,48 in \textit{DE} system)
+    \item Junior Engineering Student, Cairo University Faculty of Engineering.
+    \item Data Science Student, WorldQuant University, Lab of Applied Data Science.
+    \item Machine Learning Bootcamp Scholarship, BamboGeeks.
+    \item High School Diploma, Sahara Language Schools, Grade 98,2\%.
+\end{itemize}
+
+\section{Certificates}
+Mobile Application Dev. Diploma, Global Translator, Google Data Analytics Professional, Data Scientist Associate \& Pro, AZ-900, AI-900, HCIP-AI, TensorFlow, {B1 \tiny DE}, DET 140.
+
+\end{document}
